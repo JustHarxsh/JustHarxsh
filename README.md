@@ -1,4 +1,34 @@
-## Hey This is JustHarxsh👋
+# Hey!! This is JustHarxsh :)
+
+## About Me 
+
+Welcome to my GitHub repository! This is my profile and it serves as a showcase of my work and a platform to share my creative projects as Just Harxsh. 
+As a multi-talented artist, music producer, graphic designer, video editor, and web developer, I strive to bring innovation and excellence to every project I undertake. Here you will find a collection of my music compositions, graphic design works, web development projects, and more.
+
+## Skills
+
+- Music Production
+- Graphic Design
+- Video Editing
+- Web Development
+- UI/UX Design
+- Social Media Marketing
+- Event Management
+- Content Creation
+- Communication and Collaboration
+
+## Contact Me
+
+If you're interested in collaborating, have any questions, or just want to say hello, feel free to reach out to me:
+
+- Email: [JustHarxsh](mailto:harshvermasj123@gmail.com)
+- Instagram: [@justharxsh](https://www.instagram.com/justharxsh/)
+- LinkedIn: [@justharxsh](https://www.linkedin.com/in/justharxsh/)
+
+I'm always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.
+
+Thank you for visiting my GitHub Profile, and I hope you enjoy exploring my projects!
+
 <!--
 **JustHarxsh/JustHarxsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

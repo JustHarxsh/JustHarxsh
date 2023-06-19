@@ -2,8 +2,7 @@
 
 ## About Me 
 
-Welcome to my GitHub repository! This is my profile and it serves as a showcase of my work and a platform to share my creative projects as Just Harxsh. 
-As a multi-talented artist, music producer, graphic designer, video editor, and web developer, I strive to bring innovation and excellence to every project I undertake. Here you will find a collection of my music compositions, graphic design works, web development projects, and more.
+Being multi-talented. I am an artist, music producer, graphic designer, video editor, and web developer, I strive to bring innovation and excellence to every project I undertake. Here you will find a collection of my music compositions, graphic design works, web development projects, and more.
 
 ## Skills
 

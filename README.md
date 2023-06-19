@@ -11,9 +11,6 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 - Video Editing
 - Web Development
 - UI/UX Design
-- Social Media Marketing
-- Event Management
-- Content Creation
 - Communication and Collaboration
 
 ## Contact Me

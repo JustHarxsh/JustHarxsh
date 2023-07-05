@@ -24,6 +24,7 @@ If you're interested in collaborating, have any questions, or just want to say h
 - Email: [JustHarxsh](mailto:harshvermasj123@gmail.com)
 - Instagram: [@justharxsh](https://www.instagram.com/justharxsh/)
 - LinkedIn: [@justharxsh](https://www.linkedin.com/in/justharxsh/)
+- Twitter : [@justharxsh](https://twitter.com/justharxsh)
 - SoundCloud: [@justharxsh](https://soundcloud.com/justharxsh)
 
 I'm always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.

@@ -21,11 +21,14 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 
 If you're interested in collaborating, have any questions, or just want to say hello, feel free to reach out to me:
 
-- Email: [JustHarxsh](mailto:harshvermasj123@gmail.com)
+- Email: [@justharxsh](mailto:harshvermasj123@gmail.com)
 - Instagram: [@justharxsh](https://www.instagram.com/justharxsh/)
 - LinkedIn: [@justharxsh](https://www.linkedin.com/in/justharxsh/)
-- Twitter : [@justharxsh](https://twitter.com/justharxsh)
+- GitHub: [@justharxsh](https://www.github.com/justharxsh/)
+- Twitter: [@justharxsh](https://twitter.com/justharxsh)
 - SoundCloud: [@justharxsh](https://soundcloud.com/justharxsh)
+- CodePen.io: [@justharxsh](https://codepen.io/justharxsh)
+- Dev.to: [@justharxsh](https://dev.to/justharxsh)
 
 I'm always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.
 

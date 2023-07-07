@@ -20,7 +20,7 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 If you're interested in collaborating, have any questions, or just want to say hello, feel free to reach out to me:
 
 - Email: [@justharxsh](mailto:harshvermasj123@gmail.com)
-- Spotify: [justharxsh](https://sptfy.com/justharxsh)
+- Spotify: [@justharxsh](https://sptfy.com/justharxsh)
 - Instagram: [@justharxsh](https://www.instagram.com/justharxsh/)
 - LinkedIn: [@justharxsh](https://www.linkedin.com/in/justharxsh/)
 - GitHub: [@justharxsh](https://www.github.com/justharxsh/)

@@ -22,6 +22,7 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 If you're interested in collaborating, have any questions, or just want to say hello, feel free to reach out to me:
 
 - Email: [@justharxsh](mailto:harshvermasj123@gmail.com)
+- Spotify: [justharxsh](https://sptfy.com/justharxsh)
 - Instagram: [@justharxsh](https://www.instagram.com/justharxsh/)
 - LinkedIn: [@justharxsh](https://www.linkedin.com/in/justharxsh/)
 - GitHub: [@justharxsh](https://www.github.com/justharxsh/)
@@ -30,6 +31,6 @@ If you're interested in collaborating, have any questions, or just want to say h
 - CodePen.io: [@justharxsh](https://codepen.io/justharxsh)
 - Dev.to: [@justharxsh](https://dev.to/justharxsh)
 
-I'm always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.
+Always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.
 
 Thank you for visiting my GitHub Profile, and I hope you enjoy exploring my projects!

@@ -9,16 +9,14 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 
 ## Skills
 
+- Web Development
 - Music Production
 - Graphic Design
 - Video Editing
-- Web Development
 - UI/UX Design
-- Programming
 - Communication and Collaboration
 
-## Contact Me
-
+## Let's Connect!!
 If you're interested in collaborating, have any questions, or just want to say hello, feel free to reach out to me:
 
 - Email: [@justharxsh](mailto:harshvermasj123@gmail.com)

@@ -9,7 +9,7 @@ Being multi-talented. I am an artist, music producer, graphic designer, video ed
 
 ## Skills
 
-- Web Development
+- Full Stack Web Development
 - Music Production
 - Graphic Design
 - Video Editing
@@ -28,6 +28,7 @@ If you're interested in collaborating, have any questions, or just want to say h
 - SoundCloud: [@justharxsh](https://soundcloud.com/justharxsh)
 - CodePen.io: [@justharxsh](https://codepen.io/justharxsh)
 - Dev.to: [@justharxsh](https://dev.to/justharxsh)
+- Devpost.to [@justharxsh](https://devpost.com/JustHarxsh)
 
 Always excited to connect with fellow creatives, share ideas, and embark on new creative endeavors.
 
